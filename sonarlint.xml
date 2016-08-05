@@ -1,0 +1,12 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://trinity-jenkins.it4ipm.de:9000/" />
+          <option name="name" value="Mars" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
