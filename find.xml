@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File 'C:\Projekte\intellij-projects\mars-trinity\mars-plus\development\app\mars-plus\web\src\main\java\de\gema\mars_plus\web\integration\view_model\UENutzungViewModelFacade.java'" />
     <option name="defaultScopeName" value="File 'C:\Projekte\intellij-projects\mars-trinity\mars-plus\development\app\mars-plus\web\src\main\java\de\gema\mars_plus\web\integration\view_model\UENutzungViewModelFacade.java'" />
     <option name="localRegularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File 'C:\Projekte\intellij-projects\mars-trinity\mars-plus\development\app\mars-plus\web\src\main\java\de\gema\mars_plus\web\integration\view_model\UENutzungViewModelFacade.java'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -21,9 +24,9 @@
       <mask>*Case.java</mask>
       <mask>*.sql</mask>
       <mask>*FT.java</mask>
-      <mask>*.st</mask>
       <mask>IT.java</mask>
       <mask>*IT.java</mask>
+      <mask>*.st</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
