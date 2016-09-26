@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File 'C:\Projekte\intellij-projects\mars-trinity\mars-plus\development\app\mars-plus\web\src\main\java\de\gema\mars_plus\web\integration\view_model\UENutzungViewModelFacade.java'" />
-    <option name="FILE_MASK" value="*.st" />
+    <option name="FILE_MASK" value="*Test.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -26,6 +26,7 @@
       <mask>*IT.java</mask>
       <mask>*.java</mask>
       <mask>*.st</mask>
+      <mask>*Test.java</mask>
     </recentFileMasks>
   </component>
 </application>
