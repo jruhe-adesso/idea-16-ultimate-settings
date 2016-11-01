@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="st" type="HTML" />
+      <mapping pattern="f2" type="PLAIN_TEXT" />
+      <mapping pattern="f1" type="PLAIN_TEXT" />
       <mapping pattern="shouldNotAllowVermerkAendernIfVermerkNotAktiv" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
     </extensionMap>
