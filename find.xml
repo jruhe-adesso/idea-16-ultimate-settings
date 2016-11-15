@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -26,8 +26,8 @@
       <mask>*.js</mask>
       <mask>V1_0_6*.sql</mask>
       <mask>*IT.java</mask>
-      <mask>*.java</mask>
       <mask>*.sql</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
