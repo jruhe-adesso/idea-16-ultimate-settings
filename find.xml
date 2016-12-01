@@ -2,11 +2,13 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[core] - ...\core\src\main\java\de\gema\mars_plus\model\VermerkSperrung.java'" />
     <option name="defaultScopeName" value="File '[core] - ...\core\src\main\java\de\gema\mars_plus\model\VermerkSperrung.java'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[core] - ...\core\src\main\java\de\gema\mars_plus\model\VermerkSperrung.java'" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -25,6 +27,7 @@
       <mask>*.sql</mask>
       <mask>*.java</mask>
       <mask>*.properties</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
