@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[core] - ...\core\src\main\java\de\gema\mars_plus\model\VermerkSperrung.java'" />
-    <option name="defaultScopeName" value="File '[core] - ...\core\src\main\java\de\gema\mars_plus\model\VermerkSperrung.java'" />
-    <option name="SEARCH_SCOPE" value="File '[core] - ...\core\src\main\java\de\gema\mars_plus\model\VermerkSperrung.java'" />
+    <option name="customScope" value="Project 'mars-plus'" />
+    <option name="defaultScopeName" value="Project 'mars-plus'" />
+    <option name="SEARCH_SCOPE" value="Project 'mars-plus'" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
