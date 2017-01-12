@@ -6,6 +6,7 @@
       <mapping pattern="f2" type="PLAIN_TEXT" />
       <mapping pattern="f1" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping pattern="V1_0_715__add_stopp_zeit_to_T_GEMELDETES_BASISPRODUKT" type="SQL" />
     </extensionMap>
   </component>
