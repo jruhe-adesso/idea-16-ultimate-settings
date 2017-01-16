@@ -3,6 +3,7 @@
     <option name="customScope" value="Project 'mars-plus'" />
     <option name="defaultScopeName" value="Project 'mars-plus'" />
     <option name="SEARCH_SCOPE" value="Project 'mars-plus'" />
+    <option name="FILE_MASK" value="*.st" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -16,7 +17,6 @@
       <mask>*Case.java</mask>
       <mask>*FT.java</mask>
       <mask>IT.java</mask>
-      <mask>*.st</mask>
       <mask>*Test.java</mask>
       <mask>*.js</mask>
       <mask>V1_0_6*.sql</mask>
@@ -25,6 +25,7 @@
       <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.sql</mask>
+      <mask>*.st</mask>
     </recentFileMasks>
   </component>
 </application>
