@@ -3,6 +3,7 @@
     <option name="customScope" value="Project 'mars-plus'" />
     <option name="defaultScopeName" value="Project 'mars-plus'" />
     <option name="SEARCH_SCOPE" value="Project 'mars-plus'" />
+    <option name="FILE_MASK" value="*.st" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
