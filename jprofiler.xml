@@ -1,4 +1,7 @@
 <application>
+  <component name="JrePropertiesCache">
+    <jre homeDir="C:\Coding\Java\JDK\JDK1.7x64" arch64Bit="true" />
+  </component>
   <component name="TemplateCache" checksum="1424943254184">
     <jvm name="C:\Coding\Java\JDK\JDK1.7x64\jre" value="-agentpath:C:\Coding\Java\JPROFI~1\bin\WINDOW~1\jprofilerti.dll=${PARAM} -Djprofiler.64bit=true" />
   </component>
