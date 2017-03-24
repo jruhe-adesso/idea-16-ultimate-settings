@@ -5,14 +5,13 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.j</mask>
       <mask>*.java*.st</mask>
       <mask>*(IT)|(FT).java</mask>
       <mask>*verm*.sql</mask>
@@ -23,11 +22,17 @@
       <mask>V1_0_6*.sql</mask>
       <mask>*IT.java</mask>
       <mask>*.properties</mask>
-      <mask>*.sql</mask>
       <mask>*.st</mask>
       <mask>*.js</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
