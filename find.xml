@@ -3,13 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value=".gitattr" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
       <mask>*.java*.st</mask>
       <mask>*(IT)|(FT).java</mask>
       <mask>*verm*.sql</mask>
@@ -24,14 +19,22 @@
       <mask>*.xml</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
-      <mask>*.jav</mask>
-      <mask>*.j</mask>
       <mask>*.st</mask>
       <mask>*.s</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>.</mask>
+      <mask>.g</mask>
+      <mask>.gi</mask>
+      <mask>.git</mask>
+      <mask>.gita</mask>
+      <mask>.gitat</mask>
+      <mask>.gitatt</mask>
+      <mask>.gitattr</mask>
     </recentFileMasks>
   </component>
 </application>
