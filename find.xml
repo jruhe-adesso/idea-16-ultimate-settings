@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -22,17 +20,18 @@
       <mask>V1_0_6*.sql</mask>
       <mask>*IT.java</mask>
       <mask>*.properties</mask>
-      <mask>*.st</mask>
       <mask>*.js</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.jav</mask>
+      <mask>*.j</mask>
+      <mask>*.st</mask>
+      <mask>*.s</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
