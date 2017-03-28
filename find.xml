@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value=".gitattr" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.java*.st</mask>
-      <mask>*(IT)|(FT).java</mask>
       <mask>*verm*.sql</mask>
       <mask>*Case.java</mask>
       <mask>*FT.java</mask>
@@ -21,7 +19,6 @@
       <mask>*.sq</mask>
       <mask>*.st</mask>
       <mask>*.s</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
@@ -35,6 +32,9 @@
       <mask>.gitat</mask>
       <mask>.gitatt</mask>
       <mask>.gitattr</mask>
+      <mask>.ja</mask>
+      <mask>.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
