@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="st" type="HTML" />
-      <mapping pattern="shouldNotAllowVermerkAendernIfVermerkNotAktiv" type="PLAIN_TEXT" />
       <mapping pattern="f2" type="PLAIN_TEXT" />
+      <mapping pattern="shouldNotAllowVermerkAendernIfVermerkNotAktiv" type="PLAIN_TEXT" />
       <mapping pattern="f1" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
+      <mapping ext="stackdump" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping pattern="V1_0_715__add_stopp_zeit_to_T_GEMELDETES_BASISPRODUKT" type="SQL" />
     </extensionMap>
