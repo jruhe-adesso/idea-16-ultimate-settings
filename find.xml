@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>IT.java</mask>
       <mask>V1_0_6*.sql</mask>
@@ -19,7 +19,6 @@
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>.</mask>
       <mask>.g</mask>
       <mask>.gi</mask>
@@ -35,6 +34,7 @@
       <mask>*Te.java</mask>
       <mask>*T.java</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
