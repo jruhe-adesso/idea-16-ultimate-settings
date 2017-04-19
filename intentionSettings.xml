@@ -3,5 +3,6 @@
     <ignoreAction name="Java/Boolean/Flip Comparison" />
     <ignoreAction name="Groovy/Control Flow/Invert 'if' condition" />
     <ignoreAction name="Java/Control Flow/Remove Braces" />
+    <ignoreAction name="Java/Imports/Expand Static Import" />
   </component>
 </application>
