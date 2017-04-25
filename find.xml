@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*TemplateIT.java" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>.git</mask>
       <mask>.gita</mask>
@@ -23,7 +23,6 @@
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*</mask>
       <mask>T</mask>
       <mask>Te</mask>
       <mask>Tem</mask>
@@ -39,6 +38,7 @@
       <mask>*TemplateIT.</mask>
       <mask>*TemplateIT.ja</mask>
       <mask>*TemplateIT.java</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
