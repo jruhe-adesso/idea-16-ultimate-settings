@@ -1,22 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>.git</mask>
-      <mask>.gita</mask>
-      <mask>.gitat</mask>
-      <mask>.gitatt</mask>
-      <mask>.gitattr</mask>
-      <mask>.ja</mask>
-      <mask>.java</mask>
-      <mask>*Test.java</mask>
       <mask>*Tes.java</mask>
       <mask>*Te.java</mask>
       <mask>*T.java</mask>
@@ -38,6 +28,14 @@
       <mask>*TemplateIT.</mask>
       <mask>*TemplateIT.ja</mask>
       <mask>*TemplateIT.java</mask>
+      <mask>*T</mask>
+      <mask>*Tem</mask>
+      <mask>*Temp</mask>
+      <mask>*Template</mask>
+      <mask>*Templat</mask>
+      <mask>*Templa</mask>
+      <mask>*Templ</mask>
+      <mask>*Templ*</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
