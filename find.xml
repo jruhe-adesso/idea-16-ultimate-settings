@@ -7,23 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*TemplateIT.java" />
     <recentFileMasks>
-      <mask>IT.java</mask>
-      <mask>V1_0_6*.sql</mask>
-      <mask>*IT.java</mask>
-      <mask>*.properties</mask>
-      <mask>*.js</mask>
-      <mask>*.xml</mask>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
-      <mask>*.st</mask>
-      <mask>*.s</mask>
-      <mask>*.jav</mask>
-      <mask>*.j</mask>
-      <mask>.</mask>
-      <mask>.g</mask>
-      <mask>.gi</mask>
       <mask>.git</mask>
       <mask>.gita</mask>
       <mask>.gitat</mask>
@@ -35,10 +20,25 @@
       <mask>*Tes.java</mask>
       <mask>*Te.java</mask>
       <mask>*T.java</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>T</mask>
+      <mask>Te</mask>
+      <mask>Tem</mask>
+      <mask>Temp</mask>
+      <mask>Templa</mask>
+      <mask>TemplateIt</mask>
+      <mask>Template</mask>
+      <mask>TemplateI</mask>
+      <mask>TemplateIT.</mask>
+      <mask>TemplateIT</mask>
+      <mask>*TemplateIT*</mask>
+      <mask>*TemplateIT</mask>
+      <mask>*TemplateIT.</mask>
+      <mask>*TemplateIT.ja</mask>
+      <mask>*TemplateIT.java</mask>
     </recentFileMasks>
   </component>
 </application>
