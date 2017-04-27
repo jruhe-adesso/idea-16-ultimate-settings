@@ -5,9 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*Te.java</mask>
-      <mask>*T.java</mask>
-      <mask>T</mask>
       <mask>Te</mask>
       <mask>Tem</mask>
       <mask>Temp</mask>
@@ -31,8 +28,11 @@
       <mask>*Templ</mask>
       <mask>*Templ*</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.jac</mask>
+      <mask>*x</mask>
+      <mask>*xm</mask>
+      <mask>*xml</mask>
+      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
     </recentFileMasks>
