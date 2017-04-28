@@ -5,9 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>Te</mask>
       <mask>Tem</mask>
       <mask>Temp</mask>
       <mask>Templa</mask>
@@ -29,14 +28,15 @@
       <mask>*Templa</mask>
       <mask>*Templ</mask>
       <mask>*Templ*</mask>
-      <mask>*</mask>
       <mask>*.jac</mask>
       <mask>*x</mask>
       <mask>*xm</mask>
       <mask>*xml</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
