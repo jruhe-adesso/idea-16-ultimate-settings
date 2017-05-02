@@ -5,16 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*AT.java" />
+    <option name="FILE_MASK" value="*.st" />
     <recentFileMasks>
-      <mask>*TemplateIT*</mask>
-      <mask>*TemplateIT</mask>
-      <mask>*TemplateIT.</mask>
-      <mask>*TemplateIT.ja</mask>
-      <mask>*TemplateIT.java</mask>
-      <mask>*T</mask>
-      <mask>*Tem</mask>
-      <mask>*Temp</mask>
       <mask>*Template</mask>
       <mask>*Templat</mask>
       <mask>*Templa</mask>
@@ -37,6 +29,14 @@
       <mask>*.java</mask>
       <mask>*A.java</mask>
       <mask>*AT.java</mask>
+      <mask>*AT.jav</mask>
+      <mask>*AT.ja</mask>
+      <mask>*AT.j</mask>
+      <mask>*AT.</mask>
+      <mask>*AT.s</mask>
+      <mask>*AT.st</mask>
+      <mask>*A.st</mask>
+      <mask>*.st</mask>
     </recentFileMasks>
   </component>
 </application>
