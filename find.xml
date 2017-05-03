@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*Templ</mask>
       <mask>*Templ*</mask>
@@ -23,7 +23,6 @@
       <mask>*AT*.</mask>
       <mask>*AT*.ja</mask>
       <mask>*AT*.java</mask>
-      <mask>*.java</mask>
       <mask>*A.java</mask>
       <mask>*AT.java</mask>
       <mask>*AT.jav</mask>
@@ -39,6 +38,7 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
