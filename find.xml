@@ -5,13 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="" />
+    <option name="FILE_MASK" value="*facade*" />
     <recentFileMasks>
-      <mask>*Templ*</mask>
-      <mask>*.jac</mask>
-      <mask>*x</mask>
-      <mask>*xm</mask>
-      <mask>*xml</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*A</mask>
@@ -37,6 +32,11 @@
       <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*fac</mask>
+      <mask>*facaa</mask>
+      <mask>*facad</mask>
+      <mask>*facade</mask>
+      <mask>*facade*</mask>
     </recentFileMasks>
   </component>
 </application>
