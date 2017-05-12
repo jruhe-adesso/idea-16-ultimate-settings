@@ -5,9 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="" />
     <recentFileMasks>
-      <mask>*Templ</mask>
       <mask>*Templ*</mask>
       <mask>*.jac</mask>
       <mask>*x</mask>
@@ -30,13 +29,14 @@
       <mask>*AT.s</mask>
       <mask>*AT.st</mask>
       <mask>*A.st</mask>
-      <mask>*.st</mask>
-      <mask>*.x</mask>
       <mask>*.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.st</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
