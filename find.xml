@@ -2,19 +2,13 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*A</mask>
-      <mask>*AT</mask>
-      <mask>*AT*</mask>
-      <mask>*AT*.</mask>
-      <mask>*AT*.ja</mask>
-      <mask>*AT*.java</mask>
       <mask>*A.java</mask>
       <mask>*AT.java</mask>
       <mask>*AT.jav</mask>
@@ -36,6 +30,14 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.xm</mask>
+      <mask>*mu.xml</mask>
+      <mask>*m.xml</mask>
+      <mask>*mi.xml</mask>
+      <mask>*mig.xml</mask>
+      <mask>*mig*.xml</mask>
+      <mask>*mi*.xml</mask>
+      <mask>*m*.xml</mask>
+      <mask>**.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
