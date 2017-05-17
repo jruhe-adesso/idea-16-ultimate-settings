@@ -7,17 +7,12 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*TV*.xml" />
     <recentFileMasks>
-      <mask>*AT.java</mask>
-      <mask>*AT.jav</mask>
-      <mask>*AT.ja</mask>
-      <mask>*AT.j</mask>
       <mask>*AT.</mask>
       <mask>*AT.s</mask>
       <mask>*AT.st</mask>
       <mask>*A.st</mask>
-      <mask>*.x</mask>
       <mask>*.st</mask>
       <mask>*.s</mask>
       <mask>*fac</mask>
@@ -25,7 +20,6 @@
       <mask>*facad</mask>
       <mask>*facade</mask>
       <mask>*facade*</mask>
-      <mask>*.xm</mask>
       <mask>*mu.xml</mask>
       <mask>*m.xml</mask>
       <mask>*mi.xml</mask>
@@ -34,11 +28,17 @@
       <mask>*mi*.xml</mask>
       <mask>*m*.xml</mask>
       <mask>**.xml</mask>
-      <mask>*.xml</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>*T.xml</mask>
+      <mask>*TV.xml</mask>
+      <mask>*TV*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
