@@ -3,13 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*AT.s</mask>
-      <mask>*AT.st</mask>
-      <mask>*A.st</mask>
       <mask>*.st</mask>
-      <mask>*.s</mask>
       <mask>*fac</mask>
       <mask>*facaa</mask>
       <mask>*facad</mask>
@@ -23,8 +19,6 @@
       <mask>*mi*.xml</mask>
       <mask>*m*.xml</mask>
       <mask>*</mask>
-      <mask>*.jav</mask>
-      <mask>*.</mask>
       <mask>*T.xml</mask>
       <mask>*TV.xml</mask>
       <mask>*TV*.xml</mask>
@@ -33,8 +27,14 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
