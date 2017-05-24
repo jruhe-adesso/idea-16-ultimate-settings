@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*sql" />
+    <option name="FILE_MASK" value="*java" />
     <recentFileMasks>
-      <mask>*facade*</mask>
-      <mask>*mu.xml</mask>
       <mask>*m.xml</mask>
       <mask>*mi.xml</mask>
       <mask>*mig.xml</mask>
@@ -35,6 +33,8 @@
       <mask>*s</mask>
       <mask>*sq</mask>
       <mask>*sql</mask>
+      <mask>*ja</mask>
+      <mask>*java</mask>
     </recentFileMasks>
   </component>
 </application>
