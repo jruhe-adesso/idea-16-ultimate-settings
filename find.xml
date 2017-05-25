@@ -3,38 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*.csv" />
     <recentFileMasks>
-      <mask>*m.xml</mask>
-      <mask>*mi.xml</mask>
-      <mask>*mig.xml</mask>
-      <mask>*mig*.xml</mask>
-      <mask>*mi*.xml</mask>
-      <mask>*m*.xml</mask>
-      <mask>*</mask>
-      <mask>*T.xml</mask>
-      <mask>*TV.xml</mask>
-      <mask>*TV*.xml</mask>
-      <mask>*T*.xml</mask>
-      <mask>**.xml</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.sja</mask>
       <mask>*.sjava</mask>
       <mask>*.java</mask>
-      <mask>*s</mask>
       <mask>*sq</mask>
       <mask>*sql</mask>
       <mask>*ja</mask>
       <mask>*java</mask>
+      <mask>*s</mask>
+      <mask>*sen</mask>
+      <mask>*send</mask>
+      <mask>*sender</mask>
+      <mask>*senderl</mask>
+      <mask>*senderlis</mask>
+      <mask>*senderlist</mask>
+      <mask>*senderliste</mask>
+      <mask>*senderliste*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.cvs</mask>
+      <mask>*.cv</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.csv</mask>
     </recentFileMasks>
   </component>
 </application>
