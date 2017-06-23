@@ -5,8 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.sja</mask>
       <mask>*.sjava</mask>
       <mask>*sq</mask>
       <mask>*sql</mask>
@@ -21,19 +19,21 @@
       <mask>*senderlist</mask>
       <mask>*senderliste</mask>
       <mask>*senderliste*</mask>
-      <mask>*</mask>
       <mask>*.cvs</mask>
       <mask>*.cv</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.csv</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
+      <mask>*xm</mask>
+      <mask>*xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
