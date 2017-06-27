@@ -1,7 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\Users\ruhe\.babun\cygwin\bin\zsh.exe" />
-    <option name="myTabName" value="babun" />
+    <option name="myShellPath" value="C:\Program Files\Git\git-cmd.exe" />
     <option name="mySoundBell" value="false" />
+    <option name="myTabName" value="Gitbash" />
   </component>
 </application>
