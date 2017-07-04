@@ -3,18 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*Spec.js" />
     <recentFileMasks>
-      <mask>*send</mask>
-      <mask>*sender</mask>
-      <mask>*senderl</mask>
-      <mask>*senderlis</mask>
-      <mask>*senderlist</mask>
-      <mask>*senderliste</mask>
-      <mask>*senderliste*</mask>
-      <mask>*.cvs</mask>
-      <mask>*.cv</mask>
-      <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.csv</mask>
       <mask>*.sq</mask>
@@ -32,9 +22,19 @@
       <mask>*h</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
-      <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>s</mask>
+      <mask>spe</mask>
+      <mask>sp</mask>
+      <mask>S</mask>
+      <mask>Spe</mask>
+      <mask>Spec</mask>
+      <mask>Spec.</mask>
+      <mask>Spec.j</mask>
+      <mask>Spec.js</mask>
+      <mask>*Spec.js</mask>
     </recentFileMasks>
   </component>
 </application>
