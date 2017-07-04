@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*send</mask>
       <mask>*sender</mask>
@@ -30,11 +30,11 @@
       <mask>*html</mask>
       <mask>*htm</mask>
       <mask>*h</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
