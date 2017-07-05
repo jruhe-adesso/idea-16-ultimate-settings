@@ -3,17 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Spec.js" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.cs</mask>
-      <mask>*.csv</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*.jav</mask>
       <mask>*xm</mask>
       <mask>*xml</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.stz</mask>
       <mask>*.j</mask>
       <mask>*ht</mask>
@@ -22,8 +16,6 @@
       <mask>*h</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>s</mask>
       <mask>spe</mask>
@@ -35,6 +27,14 @@
       <mask>Spec.j</mask>
       <mask>Spec.js</mask>
       <mask>*Spec.js</mask>
+      <mask>*Spe</mask>
+      <mask>*Sp</mask>
+      <mask>*S</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.jaa</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
